@@ -1,0 +1,8 @@
+{
+  "name": "fitnessBeta",
+  "app_id": "3fc546d8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
